@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82e55ee9-390f-45e2-95c2-a484532d9e79" name="Changes" comment="Init" />
+    <list default="true" id="82e55ee9-390f-45e2-95c2-a484532d9e79" name="Changes" comment="Add prompt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +69,21 @@
       <option name="project" value="LOCAL" />
       <updated>1630000030727</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init">
+      <created>1630000426623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1630000426623</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add prompt">
+      <created>1630000592618</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1630000592618</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,10 +99,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+    <MESSAGE value="Add prompt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add prompt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Turner_COP3330_ex_01$App.ic" NAME="App Coverage Results" MODIFIED="1630000101661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Turner_COP3330_ex_01$App.ic" NAME="App Coverage Results" MODIFIED="1630000347027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>org.example.*</FILTER>
     </SUITE>
   </component>
